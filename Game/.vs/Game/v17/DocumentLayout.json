@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\assets\\singleturnpattern\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\singleturnpattern\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\assets\\singleturnpattern\\scripts\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\singleturnpattern\\scripts\\golem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\assets\\singleturnpattern\\scripts\\mushroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\singleturnpattern\\scripts\\mushroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\assets\\singleturnpattern\\scripts\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\singleturnpattern\\scripts\\bat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mushroom.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\Mushroom.cs",
+              "RelativeDocumentMoniker": "Assets\\SingleturnPattern\\Scripts\\Mushroom.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\Mushroom.cs",
+              "RelativeToolTip": "Assets\\SingleturnPattern\\Scripts\\Mushroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:22:52.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bat.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\Bat.cs",
+              "RelativeDocumentMoniker": "Assets\\SingleturnPattern\\Scripts\\Bat.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\Bat.cs",
+              "RelativeToolTip": "Assets\\SingleturnPattern\\Scripts\\Bat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:22:15.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Golem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\Golem.cs",
+              "RelativeDocumentMoniker": "Assets\\SingleturnPattern\\Scripts\\Golem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\Golem.cs",
+              "RelativeToolTip": "Assets\\SingleturnPattern\\Scripts\\Golem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:07:12.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SingleturnPattern\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Assets\\SingleturnPattern\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\SingleturnPattern\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T04:42:47.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
