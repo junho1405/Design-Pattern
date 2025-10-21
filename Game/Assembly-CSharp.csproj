@@ -61,10 +61,15 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.59f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\EventBuspatern\Scripts\Client2.cs" />
+    <Compile Include="Assets\EventBuspatern\Scripts\Client1.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Golem.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Bat.cs" />
+    <Compile Include="Assets\EventBuspatern\Scripts\NewMonoBehaviourScript.cs" />
+    <Compile Include="Assets\EventBuspatern\Scripts\EventBus.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\GameManager.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Mushroom.cs" />
+    <Compile Include="Assets\EventBuspatern\Scripts\Client3.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
