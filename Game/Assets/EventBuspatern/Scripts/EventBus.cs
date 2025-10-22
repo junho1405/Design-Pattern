@@ -1,37 +1,52 @@
 using System;
 using System.Collections.Generic;
+using UnityEngine;
 
+//  이벤트를 중앙에서 관리하는 클래스
 public static class EventBus
 {
-    // 이벤트 이름과 콜백 리스트를 매핑
-    private static Dictionary<string, Action> eventTable = new Dictionary<string, Action>();
+    // Condition(이벤트 종류) → Action(실행할 함수)
+    private static Dictionary<Condition, Action> eventTable = new Dictionary<Condition, Action>();
 
-    // 구독 (Subscribe)
-    public static void Subscribe(string eventName, Action callback)
+    // --- 구독 ---
+    public static void Subscribe(Condition condition, Action action)
     {
-        if (eventTable.ContainsKey(eventName))
-            eventTable[eventName] += callback;
-        else
-            eventTable[eventName] = callback;
-    }
-
-    // 구독 해제 (Unsubscribe)
-    public static void Unsubscribe(string eventName, Action callback)
-    {
-        if (eventTable.ContainsKey(eventName))
+        if (eventTable.ContainsKey(condition))
         {
-            eventTable[eventName] -= callback;
-            if (eventTable[eventName] == null)
-                eventTable.Remove(eventName);
+            // 이미 해당 키가 있으면 덧붙이기
+            eventTable[condition] += action;
+            Debug.Log($"[EventBus] {condition} 이벤트에 Action 추가됨.");
+        }
+        else
+        {
+            // 없으면 새로 등록
+            eventTable[condition] = action;
+            Debug.Log($"[EventBus] {condition} 이벤트 신규 등록됨.");
         }
     }
 
-    // 발행 (Publish)
-    public static void Publish(string eventName)
+    // --- 구독 해제 ---
+    public static void Unsubscribe(Condition condition, Action action)
     {
-        if (eventTable.ContainsKey(eventName))
+        if (eventTable.ContainsKey(condition))
         {
-            eventTable[eventName]?.Invoke();
+            eventTable[condition] -= action;
+            if (eventTable[condition] == null)
+                eventTable.Remove(condition);
+        }
+    }
+
+    // --- 이벤트 발행 ---
+    public static void Publish(Condition condition)
+    {
+        if (eventTable.ContainsKey(condition))
+        {
+            Debug.Log($"[EventBus] {condition} 이벤트 발행됨!");
+            eventTable[condition]?.Invoke();
+        }
+        else
+        {
+            Debug.LogWarning($"[EventBus] {condition} 이벤트에 등록된 함수 없음!");
         }
     }
 }

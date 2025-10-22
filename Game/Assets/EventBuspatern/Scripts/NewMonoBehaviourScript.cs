@@ -14,6 +14,16 @@ public class EventManager : MonoBehaviour
         string randomEvent = events[Random.Range(0, events.Length)];
 
         Debug.Log($"[Publisher] Publish Event: {randomEvent}");
-        EventBus.Publish(randomEvent);
+        EventBus.Publish(Condition.Exit);
+    }
+
+    internal static void Subscibe(Condition start)
+    {
+        throw new System.NotImplementedException();
+    }
+
+    internal static void Subscibe(Condition start, System.Action enableAnimator)
+    {
+        throw new System.NotImplementedException();
     }
 }
