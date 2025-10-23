@@ -66,8 +66,10 @@
     <Compile Include="Assets\EventBuspatern\Scripts\Client1.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Golem.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\EventTester.cs" />
+    <Compile Include="Assets\EventBuspatern\Scripts\Publisher.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Bat.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\NewMonoBehaviourScript.cs" />
+    <Compile Include="Assets\Stralegy\Scripts\WeponManager.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Field.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\EventBus.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\TimeManager.cs" />

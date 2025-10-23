@@ -26,4 +26,9 @@ public class EventManager : MonoBehaviour
     {
         throw new System.NotImplementedException();
     }
+
+    internal static void Publish(Condition start)
+    {
+        throw new System.NotImplementedException();
+    }
 }

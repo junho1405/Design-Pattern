@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/EventBuspatern/Scenes/New Scene.unity
+- path: Assets/Stralegy/Scenes/New Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

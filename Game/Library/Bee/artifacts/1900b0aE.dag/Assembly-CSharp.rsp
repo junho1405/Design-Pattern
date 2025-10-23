@@ -433,12 +433,14 @@
 "Assets/EventBuspatern/Scripts/EventTester.cs"
 "Assets/EventBuspatern/Scripts/Field.cs"
 "Assets/EventBuspatern/Scripts/NewMonoBehaviourScript.cs"
+"Assets/EventBuspatern/Scripts/Publisher.cs"
 "Assets/EventBuspatern/Scripts/TimeManager.cs"
 "Assets/EventBuspatern/Scripts/UIManager.cs"
 "Assets/SingleturnPattern/Scripts/Bat.cs"
 "Assets/SingleturnPattern/Scripts/GameManager.cs"
 "Assets/SingleturnPattern/Scripts/Golem.cs"
 "Assets/SingleturnPattern/Scripts/Mushroom.cs"
+"Assets/Stralegy/Scripts/WeponManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
