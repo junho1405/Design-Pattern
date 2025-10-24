@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\design-pattern\\game\\assets\\eventbuspatern\\scripts\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\design-pattern\\game\\assets\\stralegy\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\stralegy\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\timemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\stralegy\\scripts\\weponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\stralegy\\scripts\\weponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\eventtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\eventtester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\design-pattern\\game\\assets\\stralegy\\scripts\\saiga12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\stralegy\\scripts\\saiga12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\stralegy\\scripts\\aa12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\stralegy\\scripts\\aa12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\client1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\stralegy\\scripts\\m4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\stralegy\\scripts\\m4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\client3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\client3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\client2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\eventbuspatern\\scripts\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\eventbuspatern\\scripts\\eventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\stralegy\\scripts\\wepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\stralegy\\scripts\\wepon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,123 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Publisher.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\Publisher.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Publisher.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Stralegy\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Stralegy\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T05:03:07.203Z",
+              "WhenOpened": "2025-10-24T05:11:43.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SAIGA12.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\SAIGA12.cs",
+              "RelativeDocumentMoniker": "Assets\\Stralegy\\Scripts\\SAIGA12.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\SAIGA12.cs",
+              "RelativeToolTip": "Assets\\Stralegy\\Scripts\\SAIGA12.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:09:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M4.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\M4.cs",
+              "RelativeDocumentMoniker": "Assets\\Stralegy\\Scripts\\M4.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\M4.cs",
+              "RelativeToolTip": "Assets\\Stralegy\\Scripts\\M4.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:08:32.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AA12.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\AA12.cs",
+              "RelativeDocumentMoniker": "Assets\\Stralegy\\Scripts\\AA12.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\AA12.cs",
+              "RelativeToolTip": "Assets\\Stralegy\\Scripts\\AA12.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:08:20.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TimeManager.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\TimeManager.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\TimeManager.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\TimeManager.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\TimeManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Title": "WeponManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\WeponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Stralegy\\Scripts\\WeponManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\WeponManager.cs",
+              "RelativeToolTip": "Assets\\Stralegy\\Scripts\\WeponManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:40:21.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Field.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Field.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\Field.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Field.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\Field.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T05:37:54.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventTester.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\EventTester.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\EventTester.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\EventTester.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\EventTester.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T04:30:52.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Condition.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Condition.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\Condition.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Condition.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\Condition.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T04:30:25.727Z"
+              "WhenOpened": "2025-10-24T05:08:09.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\NewMonoBehaviourScript.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\NewMonoBehaviourScript.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAlAAAAAAAAAA==",
+              "Title": "Wepon.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\Wepon.cs",
+              "RelativeDocumentMoniker": "Assets\\Stralegy\\Scripts\\Wepon.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\Stralegy\\Scripts\\Wepon.cs",
+              "RelativeToolTip": "Assets\\Stralegy\\Scripts\\Wepon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:45:53.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Client1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Client1.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\Client1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Client1.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\Client1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:40:24.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Client3.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Client3.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\Client3.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Client3.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\Client3.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:40:08.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Client2.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Client2.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\Client2.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\Client2.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\Client2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:40:02.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EventBus.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\EventBus.cs",
-              "RelativeDocumentMoniker": "Assets\\EventBuspatern\\Scripts\\EventBus.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\EventBuspatern\\Scripts\\EventBus.cs",
-              "RelativeToolTip": "Assets\\EventBuspatern\\Scripts\\EventBus.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:37:48.45Z"
+              "WhenOpened": "2025-10-24T05:07:41.597Z",
+              "EditorCaption": ""
             }
           ]
         }

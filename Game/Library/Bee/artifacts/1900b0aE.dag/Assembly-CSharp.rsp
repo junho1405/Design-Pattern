@@ -440,6 +440,11 @@
 "Assets/SingleturnPattern/Scripts/GameManager.cs"
 "Assets/SingleturnPattern/Scripts/Golem.cs"
 "Assets/SingleturnPattern/Scripts/Mushroom.cs"
+"Assets/Stralegy/Scripts/AA12.cs"
+"Assets/Stralegy/Scripts/Bullet.cs"
+"Assets/Stralegy/Scripts/M4.cs"
+"Assets/Stralegy/Scripts/SAIGA12.cs"
+"Assets/Stralegy/Scripts/Wepon.cs"
 "Assets/Stralegy/Scripts/WeponManager.cs"
 -langversion:9.0
 /deterministic

@@ -3,7 +3,7 @@ using UnityEngine;
 public class Field : MonoBehaviour
 {
     [SerializeField] Animator animator;
-    private bool isPaused = false;
+    //private bool isPaused = false;
 
     private void OnEnable()
     {
