@@ -64,6 +64,8 @@
     <Compile Include="Assets\StatPattern\Scripts\Character.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Condition.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Client2.cs" />
+    <Compile Include="Assets\StatPattern\Scripts\State.cs" />
+    <Compile Include="Assets\StatPattern\Scripts\Idle.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Client1.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Golem.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\EventTester.cs" />
@@ -81,6 +83,7 @@
     <Compile Include="Assets\EventBuspatern\Scripts\UIManager.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Mushroom.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Client3.cs" />
+    <Compile Include="Assets\StatPattern\Scripts\Walk.cs" />
     <Compile Include="Assets\Stralegy\Scripts\Bullet.cs" />
     <Compile Include="Assets\Stralegy\Scripts\SAIGA12.cs" />
   </ItemGroup>

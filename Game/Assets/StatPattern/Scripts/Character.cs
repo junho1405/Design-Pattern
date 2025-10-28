@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-    [SerializeField] int x;
-    [SerializeField] int z;
 
     [SerializeField] Animator animator;
+
+    public State currentState { get; private set; }
 
     private void Awake()
     {
@@ -24,18 +24,25 @@ public class Character : MonoBehaviour
 
     public void Walk()
     {
-        x = (int)Input.GetAxisRaw("Horizontal");
-
-        animator.SetInteger("X", x);
+        currentState.Update(this);
     }
 
+
+    public void SetState(State state)
+    {
+        this.currentState = state;
+    }
     public void PickUp()
     {
-        if (animator.GetCurrentAnimatorStateInfo(0).IsName("Pick Up") || animator.IsInTransition(0))
+        AnimatorStateInfo animatorStateInfo = animator.GetCurrentAnimatorStateInfo(0);
+
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName("PickUp")
+            || animator.IsInTransition(0))
         {
             return;
         }
 
-        animator.SetTrigger("Pick Up");
+        // Trigger 이름 공백 제거
+        animator.SetTrigger("PickUp");
     }
 }
