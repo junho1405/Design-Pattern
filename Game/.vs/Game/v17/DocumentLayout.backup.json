@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StatPattern\\Scripts\\Idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\design-pattern\\game\\assets\\flayweightpaterns\\scripts\\coroutinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\flayweightpaterns\\scripts\\coroutinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\design-pattern\\game\\assets\\statpattern\\scripts\\odle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\statpattern\\scripts\\odle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|c:\\users\\administrator\\desktop\\game\\design-pattern\\game\\assets\\flayweightpaterns\\scripts\\creatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\flayweightpaterns\\scripts\\creatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\statpattern\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\statpattern\\scripts\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\flayweightpaterns\\scripts\\robotfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\flayweightpaterns\\scripts\\robotfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\statpattern\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\statpattern\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\flayweightpaterns\\scripts\\robotfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\flayweightpaterns\\scripts\\robotfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\statpattern\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\statpattern\\scripts\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\flayweightpaterns\\scripts\\robotflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\flayweightpaterns\\scripts\\robotflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Charater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StatPattern\\Scripts\\Charater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\assets\\flayweightpaterns\\scripts\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFBC18F-9396-3137-9CFE-DEB2CDB74636}|Assembly-CSharp.csproj|solutionrelative:assets\\flayweightpaterns\\scripts\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +39,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Idle.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Idle.cs",
-              "RelativeDocumentMoniker": "Assets\\StatPattern\\Scripts\\Idle.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Idle.cs",
-              "RelativeToolTip": "Assets\\StatPattern\\Scripts\\Idle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CoroutineManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\CoroutineManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FlayweightPaterns\\Scripts\\CoroutineManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\CoroutineManager.cs*",
+              "RelativeToolTip": "Assets\\FlayweightPaterns\\Scripts\\CoroutineManager.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwB4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T06:05:06.156Z",
+              "WhenOpened": "2025-10-29T06:15:56.848Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Odle.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Odle.cs",
-              "RelativeDocumentMoniker": "Assets\\StatPattern\\Scripts\\Odle.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Odle.cs",
-              "RelativeToolTip": "Assets\\StatPattern\\Scripts\\Odle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T06:04:58.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Walk.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Walk.cs",
-              "RelativeDocumentMoniker": "Assets\\StatPattern\\Scripts\\Walk.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Walk.cs",
-              "RelativeToolTip": "Assets\\StatPattern\\Scripts\\Walk.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T05:17:33.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "State.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\State.cs",
-              "RelativeDocumentMoniker": "Assets\\StatPattern\\Scripts\\State.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\State.cs",
-              "RelativeToolTip": "Assets\\StatPattern\\Scripts\\State.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T04:13:45.549Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Character.cs",
-              "RelativeDocumentMoniker": "Assets\\StatPattern\\Scripts\\Character.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Character.cs",
-              "RelativeToolTip": "Assets\\StatPattern\\Scripts\\Character.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCAAAAAiAAAAAAAAAA==",
+              "Title": "RobotFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\RobotFactory.cs",
+              "RelativeDocumentMoniker": "Assets\\FlayweightPaterns\\Scripts\\RobotFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\RobotFactory.cs",
+              "RelativeToolTip": "Assets\\FlayweightPaterns\\Scripts\\RobotFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:25:50.941Z"
+              "WhenOpened": "2025-10-29T05:20:43.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobotFlyweight.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\RobotFlyweight.cs",
+              "RelativeDocumentMoniker": "Assets\\FlayweightPaterns\\Scripts\\RobotFlyweight.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\RobotFlyweight.cs",
+              "RelativeToolTip": "Assets\\FlayweightPaterns\\Scripts\\RobotFlyweight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T05:20:02.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RobotFollower.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\RobotFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\FlayweightPaterns\\Scripts\\RobotFollower.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\RobotFollower.cs",
+              "RelativeToolTip": "Assets\\FlayweightPaterns\\Scripts\\RobotFollower.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:49:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreatManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\CreatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FlayweightPaterns\\Scripts\\CreatManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\CreatManager.cs",
+              "RelativeToolTip": "Assets\\FlayweightPaterns\\Scripts\\CreatManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T04:34:39.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Charater.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Charater.cs",
-              "RelativeDocumentMoniker": "Assets\\StatPattern\\Scripts\\Charater.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\StatPattern\\Scripts\\Charater.cs",
-              "RelativeToolTip": "Assets\\StatPattern\\Scripts\\Charater.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAABAAAAAAAAAA==",
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\Robot.cs",
+              "RelativeDocumentMoniker": "Assets\\FlayweightPaterns\\Scripts\\Robot.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game\\Design-Pattern\\Game\\Assets\\FlayweightPaterns\\Scripts\\Robot.cs",
+              "RelativeToolTip": "Assets\\FlayweightPaterns\\Scripts\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:16:11.351Z"
+              "WhenOpened": "2025-10-29T04:30:55.901Z"
             }
           ]
         }

@@ -70,6 +70,9 @@
     <Compile Include="Assets\SingleturnPattern\Scripts\Golem.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\EventTester.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Publisher.cs" />
+    <Compile Include="Assets\FlayweightPaterns\Scripts\RobotFollower.cs" />
+    <Compile Include="Assets\FlayweightPaterns\Scripts\Robot.cs" />
+    <Compile Include="Assets\FlayweightPaterns\Scripts\RobotFactory.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Bat.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\NewMonoBehaviourScript.cs" />
     <Compile Include="Assets\Stralegy\Scripts\WeponManager.cs" />
@@ -77,11 +80,14 @@
     <Compile Include="Assets\EventBuspatern\Scripts\Field.cs" />
     <Compile Include="Assets\Stralegy\Scripts\AA12.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\EventBus.cs" />
+    <Compile Include="Assets\FlayweightPaterns\Scripts\CoroutineManager.cs" />
+    <Compile Include="Assets\FlayweightPaterns\Scripts\CreatManager.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\TimeManager.cs" />
     <Compile Include="Assets\Stralegy\Scripts\M4.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\GameManager.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\UIManager.cs" />
     <Compile Include="Assets\SingleturnPattern\Scripts\Mushroom.cs" />
+    <Compile Include="Assets\FlayweightPaterns\Scripts\RobotFlyweight.cs" />
     <Compile Include="Assets\EventBuspatern\Scripts\Client3.cs" />
     <Compile Include="Assets\StatPattern\Scripts\Walk.cs" />
     <Compile Include="Assets\Stralegy\Scripts\Bullet.cs" />

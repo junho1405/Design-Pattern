@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/StatPattern/Scenes/StatPattern.unity
+- path: Assets/FlayweightPaterns/Scenes/New Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
